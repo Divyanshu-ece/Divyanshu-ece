@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Divyanshu Pandey
+   I'm Divyanshu Pandey
 </h1>
 
 <h3 align="center">
@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Embedded+Systems+Learner;C+%7C+C%2B%2B+Developer;Exploring+Machine+Learning;Building+Hardware+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Embedded+Systems+Learner;C+%7C+C%2B%2B;Exploring+Machine+Learning;Building+Hardware+Projects" />
 </p>
 
 ---
@@ -42,11 +42,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyanshu-ece&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Divyanshu-ece&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-ece&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Divyanshu-ece&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
