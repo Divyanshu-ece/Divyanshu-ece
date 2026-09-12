@@ -34,7 +34,6 @@
 
 ### 🔌 Embedded & Hardware
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
-![RaspberryPi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 
