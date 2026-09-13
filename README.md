@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Embedded+Systems+Learner;C+%7C+C%2B%2B;Building+Hardware+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+Embedded+Hardware+Engineer;Building+Hardware+Projects" />
 </p>
 
 ---
