@@ -3,11 +3,11 @@
 </h1>
 
 <h3 align="center">
-  Embedded Systems Enthusiast | Electronics Engineer
+  Aspiring Embedded Systems Engineer  | Electronics Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+Embedded+Hardware+Engineer;Building+Hardware+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+Embedded+Hardware+Engineer;Building+Hardware+Projects:Exploring+Networking+and+5G" />
 </p>
 
 ---
@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently working on **Embedded Systems projects**
-- 🌱 Learning **Netwroking and 5G**  
+- 🌱 Learning **Networking and 5G**  
 - 🔌 Interested in **Hardware + Software Integration**
 - 🎯 Goal: Becoming a skilled **Embedded Engineer**
 
@@ -31,7 +31,7 @@
 ### 🔌 Embedded & Hardware
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
+![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
 
 ## 🔥 Current Focus
 
